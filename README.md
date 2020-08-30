@@ -6,7 +6,9 @@
 
 ### Project summary
 
-Using ResNet-50, which is a convolutional neural network that is 50 layers deep, Pytorch, and fastai, one could predict the age of a person in an uploaded photo to our website.
+Upload a selfie and this AI will guess your age! Click this link to try it out: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nikhilmaddirala/mcit-hackathon-2020/master?urlpath=voila%2Frender%2Fage-predictor-app.ipynb)
+
+The age prediction model was trained on the [All-Age-Faces Dataset](https://github.com/JingchunCheng/All-Age-Faces-Dataset) using the the ResNet-50 convolutional neural network architecture that is 50 layers deep (via the [fastai API](https://docs.fast.ai/)), and the model was deployed using [Voila and Binder](https://voila.readthedocs.io/en/stable/deploy.html#deployment-on-binder).
 
 # Todo: Devpost project page here: [Devpost](https://...)
 
@@ -35,9 +37,8 @@ If you could not click on the embedded link or use the link in this section, thi
 
 Which frameworks, libraries, or other tools did you use to create your project?
 
-* [fastai](https://docs.fast.ai/) - Deep Learning tool
-* [Binder](https://mybinder.org/) - Jupyter repo deployment
-* [Google Cloud Platform](https://maven.apache.org/) - Cloud platform
+* [fastai](https://docs.fast.ai/) - A high-level deep learning library built on PyTorch.
+* [Binder](https://mybinder.org/) - A service to turn Jupyter Notebooks in executable environments.
 
 ### Acknowledgments
 
