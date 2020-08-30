@@ -6,7 +6,9 @@
 
 ### Project summary
 
-Upload a selfie and this AI will guess your age! Click this link to try it out: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nikhilmaddirala/mcit-hackathon-2020/master?urlpath=voila%2Frender%2Fage-predictor-app.ipynb)
+Upload a selfie and this AI will guess your age! Click this link to try it out: 
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nikhilmaddirala/mcit-hackathon-2020/master?urlpath=voila%2Frender%2Fage-predictor-app.ipynb)
 
 The age prediction model was trained on the [All-Age-Faces Dataset](https://github.com/JingchunCheng/All-Age-Faces-Dataset) using the the ResNet-50 convolutional neural network architecture that is 50 layers deep (via the [fastai API](https://docs.fast.ai/)), and the model was deployed using [Voila and Binder](https://voila.readthedocs.io/en/stable/deploy.html#deployment-on-binder).
 
