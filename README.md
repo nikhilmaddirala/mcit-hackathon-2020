@@ -12,7 +12,7 @@ Upload a selfie and this AI will guess your age! Click this link to try it out:
 
 The age prediction model was trained on the [All-Age-Faces Dataset](https://github.com/JingchunCheng/All-Age-Faces-Dataset) using the the ResNet-50 convolutional neural network architecture that is 50 layers deep (via the [fastai API](https://docs.fast.ai/)), and the model was deployed using [Voila and Binder](https://voila.readthedocs.io/en/stable/deploy.html#deployment-on-binder).
 
-# Todo: Devpost project page here: [Devpost](https://...)
+[Devpost](https://devpost.com/software/ai-age-prediction)
 
 ### Authors
 
