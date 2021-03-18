@@ -1,10 +1,10 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nikhilmaddirala/mcit-hackathon-2020/master?urlpath=voila%2Frender%2Fage-predictor-app.ipynb)
 
+**NOTE: This hackathon project is now archived and the application is no longer being hosted!**
+
 # Age Prediction using Facial Recognition with ResNet50
 
 ## Overview
-
-**NOTE: This hackathon project is now archived and the application is no longer being hosted, but please feel free to explore the source code!**
 
 ### Project summary
 
