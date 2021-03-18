@@ -4,6 +4,8 @@
 
 ## Overview
 
+**NOTE: This hackathon project is now archived and the application is no longer being hosted, but please feel free to explore the source code!**
+
 ### Project summary
 
 Upload a selfie and this AI will guess your age! Click this link to try it out: 
